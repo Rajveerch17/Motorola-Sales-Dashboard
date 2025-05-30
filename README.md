@@ -92,6 +92,11 @@ Used slicers for months, mobile model, brand, payment method, and day name
 
 - Steady drop towards Wednesday (₹105M)
 
+PROJECT DASHBOARD OVERVIEW -
+
+![Screenshot 2025-05-30 154735](https://github.com/user-attachments/assets/9108762e-76c7-4abc-a94d-ebd4f2495416)
+
+
 💡 Key Insights
 
 - Sales Peaks: Saturdays and weekends show higher buying behavior
