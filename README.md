@@ -6,10 +6,11 @@ This interactive Power BI dashboard presents a comprehensive analysis of Motorol
 
 The dashboard was created to simulate real-world data analysis tasks using fictional but realistic data.
 
-🧰 Tools Used
+🧰 Tools Used 
+
     - Microsoft Excel – For data cleaning, formatting, and initial transformation
 
-    -Power BI – For data modeling, DAX measures, and building rich, interactive visualizations
+    - Power BI – For data modeling, DAX measures, and building rich, interactive visualizations
 
 🧹 Key Data Tasks
 
@@ -17,9 +18,9 @@ The dashboard was created to simulate real-world data analysis tasks using ficti
 
     - Handled null values and duplicates
 
-    -Standardized fields such as cities, payment methods, and model names
+    - Standardized fields such as cities, payment methods, and model names
 
-    -Ensured all numeric columns (sales, quantity, transactions) were properly formatted
+    - Ensured all numeric columns (sales, quantity, transactions) were properly formatted
 
 - Data Modeling (Power BI):
 
@@ -35,7 +36,7 @@ Used slicers for months, mobile model, brand, payment method, and day name
 
 📈 Dashboard Highlights
 
-🔹 KPIs (Top Row)
+🔹 KPIs (Top Row) - 
 
 - Total Sales: ₹769M
 
@@ -80,15 +81,16 @@ Used slicers for months, mobile model, brand, payment method, and day name
 - Galaxy Note (₹56M)
 
 - Brand Summary Table:
+
 - Includes Apple, OnePlus, Samsung, Vivo, Xiaomi with respective sales, quantities, and transactions
 
 📅 Day-Wise Trends
 
-    - Area Line Chart: Compares total sales by each day of the week
+- Area Line Chart: Compares total sales by each day of the week
 
-    - Highest on Saturday (₹115M)
+- Highest on Saturday (₹115M)
 
-    - Steady drop towards Wednesday (₹105M)
+- Steady drop towards Wednesday (₹105M)
 
 💡 Key Insights
 
